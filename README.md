@@ -13,6 +13,9 @@
 
 ### Hi there, I'm [ERAY](https://github.com/spake2) 👋
 
+web design and coding
+I graduated from the department of management information systems.
+🏠 I graduated at Akdeniz University from the department of Management Information Systems(Bachelor Degree) and web design and coding.(Associate Degree)
 🏠 I’m currently living at Antalya <br/>
 🌱 I’m currently learning React.js <br/>
 
