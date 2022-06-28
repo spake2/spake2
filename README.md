@@ -22,7 +22,7 @@
 
 **Front-end**<br>
 
-<code><img height="50" src=imgs/html.png></code>
+<code><img height="50" src=imgs/html.png> alt="HTML"</code>
 <code><img height="50" src=imgs/css.png></code>
 <code><img height="50" src=imgs/jquery.png></code>
 <code><img height="50" src=imgs/react.png></code><br><br>
