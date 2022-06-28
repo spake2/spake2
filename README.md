@@ -1,4 +1,11 @@
-
+<p align="center">
+  <a href="https://github.com/spake2">
+    <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/erayaltunsoy">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
+  </a>
+</p>
 
 
 ### Hi there, I'm [ERAY](https://github.com/spake2) 👋
