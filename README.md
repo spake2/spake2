@@ -3,7 +3,7 @@
 ### Hi there, I'm [ERAY](https://github.com/spake2) 👋
 
 🏠 I’m currently living at Antalya <br/>
-🌱 I’m currently learning React.js br/>
+🌱 I’m currently learning React.js <br/>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/spake2/count.svg)
