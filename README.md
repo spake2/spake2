@@ -2,14 +2,11 @@
 
 ### Hi there, I'm [QUAN (aka DEREK)](https://github.com/dereknguyen269) 👋
 
-🏠 I’m currently living at HCM City, Vietnam 🇻🇳. <br/>
-👨‍💻 I’m currently working as a Full-stack Developer.<br/>
-🔭 I’m currently working on my pet projects.<br/>
-🌱 I’m currently learning English 🤦‍♂.<br/>
-☕️ I’m coffeer. <br/>
-⚡ Bla bla bla...
+🏠 I’m currently living at Antalya <br/>
+🌱 I’m currently learning React.js 🤦‍♂.<br/>
 
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/dereknguyen269/count.svg)
+
+👉🏻 ![Visitor Count](https://profile-counter.glitch.me/spake2/count.svg)
 
 **Back-end**
 
