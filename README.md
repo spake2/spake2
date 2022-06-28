@@ -6,7 +6,7 @@
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
   </a>
     <a href="https://www.linkedin.com/in/erayaltunsoy">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" background:steelblue src="imgs/cv.png">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="imgs/cv.png">
   </a>
 </p>
 
