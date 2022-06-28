@@ -15,7 +15,8 @@
 <code><img height="50" src=imgs/css.png></code>
 <code><img height="50" src=imgs/jquery.png></code>
 <code><img height="50" src=imgs/react.png></code><br><br>
-**Back-end**<br>
+
+**Back-end**<br><br>
 
 <code><img height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
 
