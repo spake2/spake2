@@ -1,4 +1,16 @@
-<h2>ERAY ALTUNSOY</h2>
+<h2>ERAY ALTUNSOY <style>    display: inline-block;
+    margin: 0 0 0 30px;
+    font-size: 25px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: "Josefin Sans", sans-serif;
+    background: linear-gradient(to right,#095fab 10%, #25abe8 50%, #57d75b 60%);
+    background-size: 200% auto;
+    color: #fff;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 1.5s linear infinite;</style></h2>
 
 ### Hi there, I'm [ERAY](https://github.com/spake2) 👋
 
