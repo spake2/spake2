@@ -1,8 +1,4 @@
-<p align="center">
-	<a href="https://github.com/spake2"><img src="imgs/github-logo-vector.png" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/erayaltunsoy"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-</p>
+
 
 
 ### Hi there, I'm [ERAY](https://github.com/spake2) 👋
