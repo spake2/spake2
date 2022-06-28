@@ -1,4 +1,4 @@
-<h2>ERAY ALTUNSOY <style>    display: inline-block;
+<h2>ERAY ALTUNSOY  display: inline-block;
     margin: 0 0 0 30px;
     font-size: 25px;
     vertical-align: middle;
@@ -10,7 +10,7 @@
     color: #fff;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: textclip 1.5s linear infinite;</style></h2>
+    animation: textclip 1.5s linear infinite;</h2>
 
 ### Hi there, I'm [ERAY](https://github.com/spake2) 👋
 
