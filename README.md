@@ -1,4 +1,4 @@
-<h2>ERAY ALTUNSOY font-size: 25px </h2>
+<h2>ERAY ALTUNSOY</h2>
 
 ### Hi there, I'm [ERAY](https://github.com/spake2) 👋
 
