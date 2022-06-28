@@ -19,5 +19,5 @@
 <code><img height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 
 
-[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true&theme=merko)](https://github.com/dereknguyen269)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereknguyen269&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=spake2&show_icons=true&theme=merko)](https://github.com/spake2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spake2&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
