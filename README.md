@@ -2,7 +2,6 @@
 	<a href="https://github.com/spake2"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/erayaltunsoy"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
 </p>
 
 
