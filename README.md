@@ -8,7 +8,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/spake2/count.svg)
 
-**Back-end**<br>
+**Back-end**<br><br>
 <code><img height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
 
 **Front-end**<br>
