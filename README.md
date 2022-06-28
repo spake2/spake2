@@ -8,9 +8,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/spake2/count.svg)
 
-**Back-end**<br>
-
-<code><img height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
 
 **Front-end**<br>
 
@@ -18,6 +15,11 @@
 <code><img height="50" src=imgs/css.png></code>
 <code><img height="50" src=imgs/jquery.png></code>
 <code><img height="50" src=imgs/react.png></code><br><br>
+**Back-end**<br>
+
+<code><img height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
+
+
 
 
 [![ERAY's github stats](https://github-readme-stats.vercel.app/api?username=spake2&show_icons=true&theme=merko)](https://github.com/spake2)<br>
