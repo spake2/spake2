@@ -20,5 +20,5 @@
 <code><img height="50" src=imgs/react.png></code><br><br>
 
 
-[![ERAY's github stats](https://github-readme-stats.vercel.app/api?username=spake2&show_icons=true&theme=merko)](https://github.com/spake2)
+[![ERAY's github stats](https://github-readme-stats.vercel.app/api?username=spake2&show_icons=true&theme=merko)](https://github.com/spake2)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spake2&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
