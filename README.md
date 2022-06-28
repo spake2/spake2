@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/dereknguyen.png">
+<h2>ERAY ALTUNSOY</h2>
 
 ### Hi there, I'm [ERAY](https://github.com/spake2) 👋
 
