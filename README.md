@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/erayaltunsoy">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
   </a>
-    <a href="https://www.linkedin.com/in/erayaltunsoy">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="imgs/curriculum-vitae.png">
+    <a href="https://erayaltunsoy.com/cv.html">
+    <img alt="CV" title="CV" height="48" width="48" src="imgs/curriculum-vitae.png">
   </a>
 </p>
 
