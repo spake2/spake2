@@ -15,13 +15,19 @@
 </p>
 </p>
 
+# <p>
+
 💻 I graduated at Akdeniz University from the department of Management Information Systems (Bachelor Degree), <br> Web Design and Coding. (Associate Degree) <br>
 🏠 I’m currently living at Antalya <br/>
 🌱 I’m currently learning React.js <br/>
 
+</p>
+
+# <p>
 
 ![Visitor Count](https://profile-counter.glitch.me/spake2/count.svg)
 
+</p>
 
 **Front-end**<br>
 
