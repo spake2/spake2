@@ -1,9 +1,9 @@
-<p align="center">
+# <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=6289F7&background=F2FFEF00&center=true&vCenter=true&lines=Hi+there%2C+I'm+ERAY+%F0%9F%91%8B;Junior+Front-End+Developer">
 
 </p>
-# 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/erayaltunsoy">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
