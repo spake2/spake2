@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0E15F7&background=F2FFEF00&center=true&vCenter=true&lines=Hi+there%2C+I'm+ERAY+%F0%9F%91%8B;Junior+Front-End+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=0E15F7&background=F2FFEF00&center=true&vCenter=true&lines=Hi+there%2C+I'm+ERAY+%F0%9F%91%8B;Junior+Front-End+Developer">
 
 </p>
 
