@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0E15F7&background=F2FFEF00&center=true&vCenter=true&lines=Junior+Front-End+Developer)](https://git.io/typing-svg)
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/erayaltunsoy">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
