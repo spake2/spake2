@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-# <a href="https://www.linkedin.com/in/erayaltunsoy">
+ <a href="https://www.linkedin.com/in/erayaltunsoy">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
   </a>
     <a href="https://erayaltunsoy.com/cv.html">
@@ -14,7 +14,7 @@
 </p>
 
 
-💻 I graduated at Akdeniz University from the department of Management Information Systems (Bachelor Degree), <br> Web Design and Coding. (Associate Degree) <br>
+# 💻 I graduated at Akdeniz University from the department of Management Information Systems (Bachelor Degree), <br> Web Design and Coding. (Associate Degree) <br>
 🏠 I’m currently living at Antalya <br/>
 🌱 I’m currently learning React.js <br/>
 
